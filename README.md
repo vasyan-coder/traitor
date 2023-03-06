@@ -1,6 +1,6 @@
 # Traitor
 
-conflict change 2
+conflict change 3
 
 
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
